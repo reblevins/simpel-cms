@@ -1,0 +1,30 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-simpelcms-dev-164644-authRole",
+            "UnauthRoleArn": "arn:aws:iam::414705225856:role/amplify-simpelcms-dev-164644-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::414705225856:role/amplify-simpelcms-dev-164644-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-simpelcms-dev-164644-deployment",
+            "UnauthRoleName": "amplify-simpelcms-dev-164644-unauthRole",
+            "StackName": "amplify-simpelcms-dev-164644",
+            "StackId": "arn:aws:cloudformation:us-east-2:414705225856:stack/amplify-simpelcms-dev-164644/b1d0aab1-e1a4-11ea-b033-023ebc410218",
+            "AmplifyAppId": "d3ixuc9vdpq2d8"
+        },
+        "categories": {
+            "auth": {
+                "simpelcms2da47583": {}
+            },
+            "function": {
+                "simpelcms2da47583CustomMessage": {
+                    "REDIRECTURL": "https://localhost:8082/dashboard",
+                    "EMAILSUBJECT": "",
+                    "EMAILMESSAGE": ""
+                },
+                "simpelcms2da47583PostConfirmation": {
+                    "GROUP": "USERS"
+                }
+            }
+        }
+    }
+}
